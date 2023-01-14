@@ -1,0 +1,9 @@
+Results/Результаты
+Attempt: 50 (Larger)
+Attempt: 75 (Smaller)
+Attempt: 62 (Smaller)
+Attempt: 56 (Larger)
+Attempt: 59 (Smaller)
+Attempt: 57 (Larger)
+Number of attempts/Количество попыток: 7 
+Hidden number/Загаданное число: 58
